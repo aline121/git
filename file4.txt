@@ -1,1 +1,5 @@
-welcome to git merge conflict resolution demonewline from main branch second attempt
+
+
+This line is from feature-branch
+newline from feature-branch second attempt
+
