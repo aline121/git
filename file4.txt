@@ -1,1 +1,1 @@
-welcome to git merge conflict resolution demo
+This line is from feature-branch
